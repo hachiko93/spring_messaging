@@ -1,0 +1,9 @@
+fon/master/spring_messaging/amqp/AMQPReceiver.class
+fon/master/spring_messaging/AppConfig.class
+fon/master/spring_messaging/activemq/ActiveMQConfig.class
+fon/master/spring_messaging/activemq/ActiveMQReceiver.class
+fon/master/spring_messaging/kafka/KafkaReceiver.class
+fon/master/spring_messaging/kafka/KafkaSender.class
+fon/master/spring_messaging/kafka/KafkaProducerConfig.class
+fon/master/spring_messaging/amqp/AMQPConfig.class
+fon/master/spring_messaging/kafka/KafkaConsumerConfig.class
